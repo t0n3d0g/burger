@@ -1,5 +1,8 @@
 # burger
 
+Please NOTE: The app is fully functional, but I am unable to deploy using Heroku.
+Homework instructions link to Heroku deployment is a 404 broken link. Please advise!
+
 ## What the project does
 This project creates a list of burgers to be devoured or saved for later. User can add their own burgers to the list.
 
